@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgurV2.0.vbprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgurV2._0.Resources.resources
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgurV2._0.Frm_Enviar.resources
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgurV2.0.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgurV2.0.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\bin\Debug\imgur V2.0 bY MONSTERMC.exe.config
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\bin\Debug\imgur V2.0 bY MONSTERMC.exe
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\bin\Debug\imgur V2.0 bY MONSTERMC.pdb
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\bin\Debug\imgur V2.0 bY MONSTERMC.xml
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgur V2.0 bY MONSTERMC.exe
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgur V2.0 bY MONSTERMC.xml
+C:\Users\MONSTERMC\Desktop\imgurV2.0\imgurV2.0\obj\Debug\imgur V2.0 bY MONSTERMC.pdb
